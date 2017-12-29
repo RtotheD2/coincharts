@@ -9,3 +9,12 @@
 .Footer .logo {
   height: 16px;
 }
+
+.Footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.Footer a:hover {
+  text-decoration: underline;
+}
